@@ -1,0 +1,6 @@
+{
+  "name": "Crypto Wallet",
+  "description": "Multi-chain self-custody cryptocurrency wallet application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
